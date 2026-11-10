@@ -1,0 +1,7 @@
+C:\Users\afktm\source\repos\B1DQ\bin\Debug\B1DQ.exe.config
+C:\Users\afktm\source\repos\B1DQ\bin\Debug\B1DQ.exe
+C:\Users\afktm\source\repos\B1DQ\bin\Debug\B1DQ.pdb
+C:\Users\afktm\source\repos\B1DQ\obj\Debug\B1DQ.csproj.AssemblyReference.cache
+C:\Users\afktm\source\repos\B1DQ\obj\Debug\B1DQ.csproj.CoreCompileInputs.cache
+C:\Users\afktm\source\repos\B1DQ\obj\Debug\B1DQ.exe
+C:\Users\afktm\source\repos\B1DQ\obj\Debug\B1DQ.pdb
